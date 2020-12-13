@@ -40,5 +40,4 @@ elif 'ERROR' in data:
 else:
     print('Что-то неизвестное: ' + data)
 
-
-
+Q = input('press Enter to exit')
